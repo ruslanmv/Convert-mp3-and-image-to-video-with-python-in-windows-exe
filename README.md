@@ -282,8 +282,6 @@ And wuala, you have created an Windows .exe application by using Python.
 
 this is the result:
 
-[![](../assets/images/posts/README/image-20220729231046162.png)](https://youtu.be/GmkeJfGvtLg)
-
-
+[![result](../assets/images/posts/README/image-20220729231046162.png)](https://youtu.be/GmkeJfGvtLg)
 
 **Congratulations!** you have created an application that convert mp3 to mp4 with static image.
