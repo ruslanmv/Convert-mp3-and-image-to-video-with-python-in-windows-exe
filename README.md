@@ -282,6 +282,8 @@ And wuala, you have created an Windows .exe application by using Python.
 
 this is the result:
 
+![[image-20220729231046162](https://youtu.be/GmkeJfGvtLg)](assets/images/posts/README/image-20220729231046162.png)
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmkeJfGvtLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
