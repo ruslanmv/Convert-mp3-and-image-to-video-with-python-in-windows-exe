@@ -282,7 +282,9 @@ And wuala, you have created an Windows .exe application by using Python.
 
 this is the result:
 
-![[image-20220729231046162](https://youtu.be/GmkeJfGvtLg)](assets/images/posts/README/image-20220729231046162.png)
+
+
+![https://youtu.be/GmkeJfGvtLg](assets/images/posts/README/image-20220729231046162.png)
 
 
 
