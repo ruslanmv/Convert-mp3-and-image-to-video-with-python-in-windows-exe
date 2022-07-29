@@ -286,8 +286,4 @@ this is the result:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GmkeJfGvtLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 **Congratulations!** you have created an application that convert mp3 to mp4 with static image.
